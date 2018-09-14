@@ -8,3 +8,4 @@ reset test
 dev create
 feature1 create
 master create
+dev create
